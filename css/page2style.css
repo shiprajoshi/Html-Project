@@ -1,0 +1,115 @@
+body
+{
+  background-color:;
+}
+.display
+{
+  display: inline;
+}
+.heading
+{
+  text-indent: 1px;
+  font-size: 30px;
+  float: left;
+  width: 20%;
+  margin-top: 20px;
+  font-family: 'Montez';
+}
+
+#header
+{
+    height: 100px;
+    width: 2000px;
+    position: fixed;
+    background-color: rgba(0,191,255,0.3);
+}
+.home
+{
+  margin-left: 00px;
+}
+.navbars
+{
+  display: inline;
+  font-variant: small-caps;
+  font-size: 20px;
+  text-decoration-style: solid;
+  text-decoration:none;
+  margin-top: 3px;
+}
+.nav_bars a
+{
+  font-size: 23px;
+  color: black  ;
+  font-family: '', ;
+  text-decoration: none;
+}
+
+.nav_bars
+{
+  margin-left: 950px;
+}
+
+.new_sec
+{
+      background-color: rgba(0,191,255,0.9);	;			;
+      margin-top: 80px;
+      height: 70px;;
+      width: auto;
+
+  }
+  .new_sec h3
+  {
+    font-size: 30px;
+    color: white;
+  }
+  .country h1
+  {
+    letter-spacing: 1px;
+    text-transform: full-width;
+    text-shadow: 1px 1px 1px blue;
+    text-align: center;
+    color: black;
+    font-family: 'Shrikhand', cursive;
+  }
+
+  .img h1
+  {
+    letter-spacing: 1px;
+    text-transform: full-width;
+    text-shadow: 1px 1px 1px #FFC300;
+    text-align: center;
+    color: #008080;
+    font-family: 'Shrikhand', cursive;
+  }
+.grid_4 img
+{
+  height: 200px;
+  width: 300px;
+}
+.images
+{
+  background-color:#33CAFF;
+}
+
+
+footer{
+ height: 134px;
+ padding-top: 2  0px;
+ width: auto;
+ background-color: rgba(0,191,255,0.3);
+}
+footer a{
+
+ text-decoration: none;
+ font-size: 20px;
+ color: white;
+}
+footer i{
+ margin-left: 750px;
+ text-decoration: none;
+ color: white;
+
+}
+#contact{
+  padding-right: 30px;
+}
